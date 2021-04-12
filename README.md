@@ -1,2 +1,3 @@
-# Design-pattern
- python
+Python design patterns are a great way of harnessing its vast potential. ... 
+For example, Factory is a structural Python design pattern aimed at creating new objects, hiding the instantiation logic from the user.
+But creation of objects in Python is dynamic by design, so additions like Factory are not necessary.
